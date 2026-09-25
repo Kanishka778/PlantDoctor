@@ -1,0 +1,6 @@
+streamlit
+numpy 
+pillow
+
+.\.venv\Scripts\python.exe -m streamlit run app.py
+AQ.Ab8RN6KGMiukFizx4S1QBA52mEjBG0uYvTvYf_bcfWHsgDMxTA
